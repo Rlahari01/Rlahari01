@@ -1,64 +1,105 @@
 🧠 Data Analytics & Electronics Engineering GitHub Profile
-<h1 align="center">Hi 👋, I'm Rachakonda Lahari</h1> <h3 align="center">🔍 Aspiring Data Analyst & Electronics Engineering Enthusiast</h3>
-👨‍💻 About Me
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Rachakonda Lahari</h1>
+<h3 align="center">Data Analytics | Electronics Engineering | Turning Data into Insights</h3>
 
-🎓 I'm Rachakonda Lahari, an aspiring Data Analyst & Electronics Engineering graduate
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst;Electronics+Engineering+Graduate;Python+%7C+SQL+%7C+Power+BI;Data+to+Insights&center=true&width=520&height=50">
+</p>
 
-📊 Skilled in Python, SQL, Power BI, Embedded Systems
+---
 
-🧠 Passionate about converting raw data into meaningful insights
+## 🧠 About Me
+🎓 Electronics Engineering graduate transitioning into *Data Analytics*  
+📊 Strong in *Python, SQL, Power BI, and **data handling*  
+🧠 Curious about *patterns, trends, and decision-making*  
+📈 Learning *Machine Learning basics* and *data visualization*  
+🤝 Open to *Data Analytics, IoT, and Embedded Systems* projects  
 
-🔍 Currently exploring Data Analytics, ML basics, and Visualization tools
+📫 *Email:* rlahari023@gmail.com  
+🌐 *Portfolio:* Coming Soon!
 
-💡 Open to collaborating on data analytics, IoT, and embedded system projects
+---
 
-📫 Reach me at rlahari023@gmail.com
+## 🧰 Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,html,css,github,jupyter,excel" />
+</p>
 
-🌐 Portfolio: Coming Soon!
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-blue" />
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-orange" />
+  <img src="https://img.shields.io/badge/ML%20Basics-Scikit--learn-green" />
+  <img src="https://img.shields.io/badge/BI-Power%20BI-yellow" />
+</p>
 
-🧰 Languages and Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rachakondalahari&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachakondalahari&theme=radical" width="48%"/> </p>
-📊 Data Analytics & Technical Skills
+---
 
-Data Handling: Pandas, NumPy
+## 🚀 Featured Projects
+<details>
+<summary><b>🌿 Effective Weed Management Using Laser Technology</b></summary>
 
-Visualization: Matplotlib, Seaborn, Power BI
+AI-based laser weed detection system for smart agriculture  
+*Focus:* Data processing, AI logic, embedded integration  
+*Tools:* Python, AI, Embedded Systems  
 
-Machine Learning (Basics): Scikit-learn, Classification, Regression
+</details>
 
-Programming: Python, C, Embedded C
+<details>
+<summary><b>⏰ Digital Clock Using Microcontroller</b></summary>
 
-Databases: MySQL
+Real-time digital clock using microcontroller  
+*Focus:* Timing logic, hardware–software integration  
+*Tools:* Embedded C, Microcontroller  
 
-Tools: Jupyter Notebook, MS Excel, Google Colab
+</details>
 
-Web Basics: HTML, CSS
+<details>
+<summary><b>⏱ Timekeeping Device</b></summary>
 
-🚀 Featured Projects
-Project	Description	Tools
-🌿 Effective Weed Management Using Laser Technology	Laser-based weed detection using AI	AI, Embedded, Python
-⏰ Digital Clock Using Microcontroller	Real-time microcontroller-based clock	Embedded C, Microcontroller
-⏱ Timekeeping Device	Time measurement with LCD/LED Display	Embedded C, Circuit Design
-💼 Internship Experience
+Electronic time measurement system with LCD/LED display  
+*Focus:* Circuit design and embedded programming  
+*Tools:* Embedded C, Circuit Design  
 
-Junior Analyst Intern – Vangrove Tech Pvt. Ltd. (2025 – Present)
+</details>
 
-Embedded System Intern – Plasmid Innovations
+---
 
-🏆 Achievements & Certifications
+## 💼 Internship Experience
+*Junior Analyst Intern* – Vangrove Tech Pvt. Ltd. (2025 – Present)  
+📊 Data handling, analysis support, reporting  
 
-🎖 VLSI Design Flow RTL to GDS – NPTEL
+*Embedded System Intern* – Plasmid Innovations  
+⚙️ Embedded systems and hardware exposure  
 
-🧩 C Programming Certification
+---
 
-🧠 JNTUH TRIVIA GENOS ’22 Participant
+## 🏆 Certifications & Achievements
+- 🎖 VLSI Design Flow RTL to GDS – NPTEL  
+- 🧩 C Programming Certification  
+- 🧠 JNTUH TRIVIA GENOS ’22 Participant  
 
-🌐 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/rachakonda-lahari-83b9a72bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:rlahari023@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a> <a href="https://github.com/rachakondalahari"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a> </p>
-💬 Quote
+---
 
-“Turning data and engineering into meaningful solutions.” 🚀
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rlahari01&show_icons=true&theme=tokyonight" />
+</p>
 
-⭐ If you like my work, don’t forget to follow and star my repositories!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlahari01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Fun Fact
+I enjoy blending *data thinking* with *engineering logic* to build real-world solutions.
+
+---
+
+## 💬 Quote
+> Turning data and engineering into meaningful solutions. 🚀
+
+---
+
+⭐ *Follow* me and *star* the repositories you like!
